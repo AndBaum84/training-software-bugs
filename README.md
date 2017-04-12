@@ -1,7 +1,9 @@
 # training-software-bugs
-Explore the Eclipse defect tracking dataset and to develop insight into the factors that affect the likelihood of a bug being fixed with machine-learning applications. (Naive-bayes, support vector machine, logistic regression)
-Available Data: DataStructure.pdf
-Bug process: lifecycle_bug.pdf
+Explore the Eclipse defect tracking dataset to develop insight into the factors that affect the likelihood of a bug being fixed. With this understanding, three different prediction models (Naive-bayes, support vector machine, logistic regression) are applied for which bugs would be fixed. 
 
+Available Data: see DataStructure.pdf
+Bug process: see lifecycle_bug.pdf
+
+Procedure:
 - Create Database: see CreateDB.pdf
-- Flow-process: FinalFlowchart.pdf
+- Flow-process: see FinalFlowchart.pdf
